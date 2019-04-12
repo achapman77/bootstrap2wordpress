@@ -88,7 +88,7 @@ button, input, .btn, a.btn {
 }
 
 .btn:focus {
-	outline: none;
+	outline: none !important;
 }
 
 .btn-success {
